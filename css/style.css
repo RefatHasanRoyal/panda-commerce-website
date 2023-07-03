@@ -9,15 +9,18 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.categories img {
+    width: 100px;
+}
 .price {
     color: #FF136F;
 }
-.cat1 {
+.bg-watch {
     background-color: orange;
 }
-.cat2 {
+.bg-bag {
     background-color: orchid;
 }
-.cat3 {
+.bg-shoe {
     background-color: blue;
 }
